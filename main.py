@@ -1,3 +1,13 @@
+"""
+Snapchat Auto Snap Bot - macOS Version
+Created by Bilomz (https://github.com/Bilomz)
+
+Original base code was adapted from an unlicensed public script.
+Heavily modified for logic improvements, macOS support, and usability.
+
+If you are the original author and want credit or removal, feel free to reach out.
+"""
+
 import time
 import pyautogui
 from pynput import keyboard
